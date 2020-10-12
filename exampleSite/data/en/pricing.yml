@@ -13,7 +13,7 @@ pricing:
     - not include Email delivery
     - No Support
   - name: Premium
-    price: "$199"
+    price: 30$/Month
     content: Suitable for small businesses with up to 5 employees
     link: "#"
     services:
