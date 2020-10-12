@@ -1,5 +1,5 @@
 baseURL = "http://examplesite.org"
-bg_image = "/images/sf-banner.jpg"
+bg_image = ""
 description = "Check out our profitable tips today. Stay home, safe bet."
 disableLanguages = []
 disqusShortname = ""
