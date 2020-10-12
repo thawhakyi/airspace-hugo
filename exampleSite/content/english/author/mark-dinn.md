@@ -1,6 +1,6 @@
 ---
 title: Jipsy Bird
-email: email2@example.org
+email: jipsybird@sevenfootball.co
 bg_image: images/featue-bg.jpg
 social:
 - icon: ion-social-facebook-outline
