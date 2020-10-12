@@ -14,15 +14,14 @@ pricing:
     - No Support
   - name: Premium
     price: 30$/Month
-    content: Suitable for small businesses with up to 5 employees
+    content: ''
     link: "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - 1-3 Matches per Day
+    - 7 - 10 Matches per Week
+    - Replacement availible
+    - Email Delivery System
+    - 24/7 Support
   - name: Advance
     price: "$299"
     content: Suitable for large businesses with unlimited employees
