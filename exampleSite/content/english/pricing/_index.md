@@ -1,6 +1,6 @@
 ---
 title: Our Pricing
 description: ''
-bg_image: images/featue-bg.jpg
+bg_image: "/images/banner.jpg"
 
 ---
