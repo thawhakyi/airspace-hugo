@@ -12,24 +12,18 @@ about:
     label: Contact Us
     link: "#"
   funfacts:
-  - icon: ion-ios-flask-outline
-    name: Completed Projects
+  - icon: ion-ios-ball-outline
+    name: Completed Matches
     count: "349"
   - icon: ion-ios-flame-outline
-    name: Lines Of Code
-    count: "35000"
+    name: Win
+    count: "281"
   - icon: ion-ios-pint-outline
-    name: Satisfied Customer
+    name: Lose
     count: "70"
-  - icon: ion-ios-wineglass-outline
-    name: Awards Winner
-    count: "10"
-  - icon: ion-ios-chatboxes-outline
+  - icon: ion-ios-body-outline
     name: Satisfied Customer
     count: "75"
-  - icon: ion-ios-body-outline
-    name: Awards Winner
-    count: "20"
 features:
   enable: true
   title: We are indepented Design & Development Agency
