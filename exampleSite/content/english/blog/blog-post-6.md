@@ -1,9 +1,9 @@
 ---
-title: How To Wear Bright Shoes
+title: ဘာတွေပြင်သင့်လဲ?
 date: '2018-09-24T11:07:10.000+06:00'
 author: John Doe
 image: images/blog/blog-post-6.jpg
-bg_image: images/featue-bg.jpg
+bg_image: "/images/918291140.jpg"
 categories:
 - Company News
 tags:
@@ -11,45 +11,60 @@ tags:
 - Retro
 - AI
 - Company
-description: this is meta description
+description: ''
 type: post
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. 
+ဘာတွေပြင်သင့်လဲ?
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+\#အချိန်
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
+ဘောလုံးပွဲတစ်ပွဲကို အနီးစပ်ဆုံးအဖြေထွက်အောင် ရွေးချယ်ဖို့ အနည်းဆုံး အချိန် နာရီဝက်တော့ ပေးရပါတယ် တကယ်တမ်း ဘက်ပေါင်းစုံက လေ့လာသုံးသပ်ရင် ဒီထက်ပို အချိန်ပေးရပါတယ်.....
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+အများအားဖြင့်တော့ ထိုးသားတွေဟာ ပွဲတစ်ပွဲကို
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.
+အချိန် ၁၀ မိနစ်တောင် ပေးလေ့လာလေ့ မရှိပါဘူး
+
+ဟုတ်မဟုတ် မိမိဘာသာ ပြန်ဆန်းစစ်ပါ
+
+ပြီးရင် ပြင်ဆင်နိုင်အောင် အားထုတ်ပါ.....
+
+\#ပွဲများများလောင်းခြင်း
+
+ပွဲများများလောင်းတာဟာ ကိုယ့်အတွက် နိုင်ဖို့အခွင့်အလမ်းများတယ်လို့ ယူဆလေ့ရှိကြပါတယ်
+
+ဒီlogicကို ဘောလုံးတင်မဟုတ်ဘဲ အခြား gamblingတွေမှာလည်း အများစုသုံးကြပါတယ်
+
+ဒီlogicဟာ မှားယွင်းပြီး ကိုယ့်ဘက်က ပွဲများဆော့လေ ဒိုင်အတွက် chanceပိုသာလေပါပဲ
+
+ဘာကြောင့်လဲဆိုတာ အပေါ်ကစာပိုဒ်နဲ့ ပြန်ဆက်ရရင် ပွဲတစ်ပွဲကို လုံလောက်တဲ့အချိန်ပေး မလေ့လာဘဲ အချိန်နည်းနည်း​လေးသာပေး လေ့လာမယ်
+
+ပွဲများများရွေးမယ် ဒါဟာ အများစုသုံးနေတဲ့ logicပါ ဒါကို ပြင်ဆင်ဖို့လိုပါတယ်
+
+အဓိကအနေနဲ့ ပွဲတစ်ပွဲကို အချိန်ပေး သုံးသပ်လေ့လာ အချိန်ပေးလေ့လာထားတဲ့ ပွဲအနည်းငယ်ကိုပဲ ဆော့မယ်ဆိုရင် ကိုယ့်အတွက် အနိုင်ရရှိဖို့
+
+ရာခိုင်နှုန်းပိုများလာပါလိမ့်မယ်....
+
+(ဒီအချက်တွေဟာ ကိုယ်တိုင်ကြိမ်ဖန်များစွာ ရှုံးနိမ့်ပြီး ရလာတဲ့အသိတွေမို့ အားလုံးကို ကိုယ်ဖြစ်ခဲ့ဖူးသလို မဖြစ်ရလေအောင် ဝေမျှရခြင်း ဖြစ်ပါတယ်
+
+အသုံးပြုခြင်း မပြုခြင်း လက်ခံခြင်း မခံခြင်းကတော့ မိတ်ဆွေတို့အပေါ် မူတည်ပါတယ်
+
+နောက်နေ့များမှာလည်း ထက်မံရေးသားပေးသွားပါမယ်)
+
+\#အချိန်ပေးလေ့လာနိုင်လောက်အောင်အချိန်မရသူများ
+
+(ကိုယ်တိုင်အချိန်ပေးလေ့လာပြီး ရွေးချယ်နိုင်တယ်ဆိုရင် အောက်ကစာကို မဖတ်ပါနဲ့)
+
+မိတ်ဆွေတို့ အနေနဲ့ ကိုယ်တိုင်အချိန်ပေး မလေ့လာနိုင်ဘူး ဘောလုံးကိုလည်း စီးပွားရေးတစ်ခုလို ဆော့နေတယ်ဆိုရင်တော့ #7Football နဲ့ လာရောက်လက်တွဲလိုက်ပါ.....
+
+မိတ်ဆွေအချို့ရဲ့ တောင်းဆိုချက်အရ 12လပိုင်းက စတင်ပြီး #7FootballMemberခေါ်ပါမယ်...
+
+သေချာအချိန်ပေး လေ့လာထားတဲ့ ပွဲအနည်းငယ်ကိုသာ ရွေးချယ်ပေးသွားမှာဖြစ်ပြီး မန်ဘာဦးရေအနည်းငယ်နဲ့ အကောင်းဆုံး အကျိုးအမြတ်ရအောင် ရွေးချယ်ပေးသွားပါမယ်....
+
+လစဥ်ကြေးက​တော့ အကောက်ဖိုးတောင်မရှိ
+
+အားလုံးတတ်နိုင်ပါလိမ့်မယ်
+
+\#7Football နဲ့ ပူးပေါင်းလိုတယ်ဆိုရင်တော့
+
+Page Chat Boxက ဆက်သွယ်လိုက်ပါ.....
