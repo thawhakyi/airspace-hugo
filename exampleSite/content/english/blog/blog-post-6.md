@@ -1,6 +1,6 @@
 ---
 title: How To Wear Bright Shoes
-date: 2018-09-24T11:07:10.000+06:00
+date: '2018-09-24T11:07:10.000+06:00'
 author: John Doe
 image: images/blog/blog-post-6.jpg
 bg_image: images/featue-bg.jpg
@@ -13,7 +13,6 @@ tags:
 - Company
 description: this is meta description
 type: post
-draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
