@@ -12,7 +12,7 @@ about:
     label: Contact Us
     link: "#"
   funfacts:
-  - icon: ion-ios-ball-outline
+  - icon: ion-ios-flag-outline
     name: Completed Matches
     count: "349"
   - icon: ion-ios-flame-outline
