@@ -1,61 +1,23 @@
 ---
 title: Frequently Asked Questions
 description: this is meta description
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
+subtitle: Our match coverage
 date: 2020-03-23T13:05:29.000+06:00
 bg_image: images/featue-bg.jpg
 draft: true
 
 ---
-### Welcome to Airspace!
+## Which matches are covered?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+Our match coverage is unrivalled, so you’re not only covered for predictions today but every weekend and weekday too. To give you a brief outline, we cover ALL matches in the following markets:
 
-#### 1.Overview
+* Big European leagues ([Premier League](https://www.freesupertips.com/leagues/premier-league/), [La Liga](https://www.freesupertips.com/leagues/spanish-la-liga/), [Serie A](https://www.freesupertips.com/leagues/italian-serie-a/), [Bundesliga](https://www.freesupertips.com/leagues/german-bundesliga/), [Ligue 1](https://www.freesupertips.com/leagues/french-ligue-1/), etc.)
+* English leagues ([Championship](https://www.freesupertips.com/leagues/sky-bet-championship/), [League One](https://www.freesupertips.com/leagues/sky-bet-league-1/), [League Two](https://www.freesupertips.com/leagues/sky-bet-league-2/))
+* [FA Cup](https://www.freesupertips.com/leagues/english-fa-cup/) and [Carabao Cup](https://www.freesupertips.com/leagues/carabao-cup/) from the 3rd round onwards
+* [Champions League](https://www.freesupertips.com/leagues/uefa-champions-league/)
+* [Europa League](https://www.freesupertips.com/leagues/europa-league/)
+* International friendlies, qualifiers and tournaments
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+And many more!
 
-#### 2. Data We Collect
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
-
-#### 3. How We Use Data
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
-
-#### 4. How We Disclose Data.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
-
-#### 5. Security
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
-
-#### 6. Advertising.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
+You can also have a browse through our calendar to see the array of matches covered – just scroll through the days at the top of this page.
