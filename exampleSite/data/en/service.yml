@@ -38,10 +38,11 @@ service:
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
   service_item:
-  - icon: ion-coffee
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-flag
+    name: English Premier League
+    content: The most popular league in the world, we cover every match in the English
+      top flight. Thanks to the league’s popularity, you’ll find a huge range of tips
+      available for this market.
   - icon: ion-compass
     name: Web Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
