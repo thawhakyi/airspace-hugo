@@ -123,7 +123,7 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
-preloader = "images//images/ezgif-2-6d0b072c3d3f.gif"
+preloader = "images/ezgif-2-6d0b072c3d3f.gif"
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
