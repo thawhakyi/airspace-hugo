@@ -43,14 +43,15 @@ service:
     content: The most popular league in the world, we cover every match in the English
       top flight. Thanks to the league’s popularity, you’ll find a huge range of tips
       available for this market.
-  - icon: ion-compass
+  - icon: ion-planet
     name: Web Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-wallet
+    name: Europa League
+    content: No cup competition in Europe boasts as many matches as the Europa League,
+      with a titanic group stage being followed by a first knockout round containing
+      32 teams. Do we cover all these matches? You bet.
   - icon: ion-bug
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
