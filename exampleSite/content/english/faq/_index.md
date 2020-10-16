@@ -1,10 +1,9 @@
 ---
 title: Frequently Asked Questions
-description: this is meta description
+description: ''
 subtitle: Our match coverage
 date: 2020-03-23T13:05:29.000+06:00
 bg_image: images/featue-bg.jpg
-draft: true
 
 ---
 ## Which matches are covered?
