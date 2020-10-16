@@ -1,6 +1,6 @@
 ---
-title: Tip of the day
-description: Textil Escudo vs CD Barquereno
+title: ဘာတွေပြင်သင့်လဲ?
+description: ထိုးသားများသတိထားစရာအချက်များ
 bg_image: "/images/918291140.jpg"
 date: '2020-10-12T00:00:00.000+06:30'
 categories:
