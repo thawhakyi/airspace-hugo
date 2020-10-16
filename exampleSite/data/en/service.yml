@@ -33,10 +33,12 @@ featured_service:
       impedit repudiandae omnis est temporibus.
 service:
   enable: true
-  title: Our Services
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  title: Match Coverage
+  description: Our detailed football match predictions mean that when it comes to
+    tips, you don’t have to just take our word for it. We offer daily match betting
+    previews and analysis for every major league around the world. Whether you want
+    predictions for today, tomorrow or any day of the week, we have you covered. Check
+    out some of the best leagues from above.
   service_item:
   - icon: ion-flag
     name: English Premier League
@@ -54,22 +56,6 @@ service:
       32 teams. Do we cover all these matches? You bet.
   - icon: ion-bug
     name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-earth
-    name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
 cta:
