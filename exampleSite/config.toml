@@ -1,4 +1,4 @@
-baseURL = "http://examplesite.org"
+baseURL = "http://7football.netlify.app"
 bg_image = ""
 description = "Check out our profitable tips today. Stay home, safe bet."
 disableLanguages = []
@@ -9,7 +9,7 @@ theme = "airspace-hugo"
 title = "Seven Football | Let's beat the bookies!"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [SevenFootball] All Rights Reserved"
+copyright = "Copyright &copy; 2020 SevenFootball | All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -78,10 +78,10 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "7football"
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = ""
+email = "contact@7football.com"
 google_analitycs_id = ""
 location = "Bayfront Ave, Singapore 018956"
 logo = "images/logo.png"
@@ -123,7 +123,7 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "images//images/ezgif-2-6d0b072c3d3f.gif"
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
