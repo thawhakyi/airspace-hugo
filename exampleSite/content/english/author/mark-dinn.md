@@ -1,6 +1,6 @@
 ---
-title: Jipsy Bird
-email: jipsybird@sevenfootball.co
+title: 7football
+email: author@sevenfootball.co
 bg_image: images/featue-bg.jpg
 social:
 - icon: ion-social-facebook-outline
