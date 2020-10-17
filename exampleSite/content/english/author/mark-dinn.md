@@ -1,7 +1,7 @@
 ---
 title: 7football
-email: author@sevenfootball.co
-bg_image: images/featue-bg.jpg
+email: jipsybird@sevenfootball.co
+bg_image: "/images/slider-bg.jpg"
 social:
 - icon: ion-social-facebook-outline
   link: https://www.facebook.com/pyae.zaw.9847/
