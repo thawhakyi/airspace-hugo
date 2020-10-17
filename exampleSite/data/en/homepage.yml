@@ -37,8 +37,11 @@ portfolio:
     label: View Works
     link: blog
 service:
-  enable: true
-  service_item: []
+  enable: false
+  service_item:
+  - icon: ''
+    name: ''
+    content: ''
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
