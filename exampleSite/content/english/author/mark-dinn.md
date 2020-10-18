@@ -1,7 +1,7 @@
 ---
 title: 7football
-email: jipsybird@sevenfootball.co
-bg_image: "/images/slider-bg.jpg"
+email: author@sevenfootball.co
+bg_image: images/featue-bg.jpg
 social:
 - icon: ion-social-facebook-outline
   link: https://www.facebook.com/pyae.zaw.9847/
@@ -9,7 +9,7 @@ social:
   link: "#"
 - icon: ion-social-pinterest-outline
   link: "#"
-image: "/images/61561361_310415553227938_6691689678598307840_n.jpg"
+image: "/images/cronaldo.png"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
