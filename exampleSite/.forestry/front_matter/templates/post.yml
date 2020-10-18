@@ -33,5 +33,6 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/english/blog/rules-of-football.md
 - exampleSite/content/english/blog/ဖာတီ-ရိုဒရီဂို-ဂရင်းဝုဒ်တို့အပါအဝင်အသက်၂၀အောက်-အနာဂတ်ကြယ်ပွင့်များ.md
 - exampleSite/content/english/blog/ဖာတီ-ရိုဒရီဂို-ဂရင်းဝုဒ်တို့အပါအဝင်အသက်၂၀အောက်-အနာဂတ်ကြယ်ပွင့်များ.md
