@@ -7,7 +7,7 @@ bg_image: "/images/918291140.jpg"
 categories: []
 tags:
 - guides
-- football itps
+- football tips
 - betting
 description: ထိုးသားများသတိထားစရာအချက်များ
 type: post
