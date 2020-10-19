@@ -5,18 +5,14 @@ image: "/images/banner.jpg"
 bg_image: "/images/call-to-action-bg.jpg"
 category: UI/UX Design
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: Date
+  info: 10/17/2020
+- label: Time
+  info: '10:30'
+- label: League
+  info: German Bundesliga
+- label: Odds
+  info: "1.5"
 
 ---
 သုံးသပ်ချက်တော့ ရေးမပေးတော့ဘူးဗျာ
