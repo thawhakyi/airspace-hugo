@@ -2,11 +2,11 @@ baseURL = "http://7football.netlify.app"
 bg_image = ""
 description = "Check out our profitable tips today. Stay home, safe bet."
 disableLanguages = []
-disqusShortname = ""
+disqusShortname = "thawhakyi"
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Seven Football | Let's beat the bookies!"
+title = "Seven Football | Daily Football News & Predictions"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 SevenFootball | All Rights Reserved"
@@ -80,7 +80,7 @@ home = ["HTML"]
 [params]
 author = "7football"
 contact_form_action = "#"
-description = ""
+description = "Let's Beat the Bookies!"
 email = "contact@7football.com"
 google_analitycs_id = ""
 location = "Bayfront Ave, Singapore 018956"
