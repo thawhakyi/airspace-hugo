@@ -1,6 +1,6 @@
 ---
 title: Our Projects
-description: this is meta description
+description: ''
 bg_image: "/images/banner.jpg"
 information: []
 
