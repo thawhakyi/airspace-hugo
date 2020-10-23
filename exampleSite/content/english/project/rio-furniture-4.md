@@ -1,5 +1,5 @@
 ---
-title: စနေညအတွက် အကြိုက်ဆုံးတစ်ပွဲ
+title: စ‌ေနညအတွက် အ‌ြကိုက်ဆုံးတစ်ပွဲ
 description: ''
 image: "/images/banner.jpg"
 bg_image: "/images/call-to-action-bg.jpg"
@@ -12,13 +12,11 @@ information:
 - label: League
   info: German Bundesliga
 - label: Odds
-  info: "1.5"
+  info: '1.5'
 
 ---
-သုံးသပ်ချက်တော့ ရေးမပေးတော့ဘူးဗျာ
+## စ‌ေနညအတွက် အ‌ြကိုက်ဆုံးတစ်ပွဲ
 
-## စနေညအတွက် အကြိုက်ဆုံးတစ်ပွဲ
+\*** ဟာသာဘာလင်ဂိုးပေါ်**
 
-*** ဟာသာဘာလင်ဂိုးပေါ်**
-
-[#7Football](https://www.facebook.com/hashtag/7football?__eep__=6&__cft__\[0\]=AZXxPlhHyZk9KJWfhgGeBkaXIQcLOhvKHQIxa3ITcg8uxwMmDobxFmvmhD1rx74JNfc5vhb4y7IujlHLfX7VeYPDmIE54k0suRCUngfeE8ZZjAXLJmYF25QAGcjx2wvSa3Wb-8MWpxs6JiHa-kPablFbf2AommGEQ-BYJL7tZVy8N8SdRC1TcmkOGsD05a9tIYA&__tn__=*NK-R)
+[#7Football](https://www.facebook.com/hashtag/7football?__eep__=6&__cft__%5B0%5D=AZXxPlhHyZk9KJWfhgGeBkaXIQcLOhvKHQIxa3ITcg8uxwMmDobxFmvmhD1rx74JNfc5vhb4y7IujlHLfX7VeYPDmIE54k0suRCUngfeE8ZZjAXLJmYF25QAGcjx2wvSa3Wb-8MWpxs6JiHa-kPablFbf2AommGEQ-BYJL7tZVy8N8SdRC1TcmkOGsD05a9tIYA&__tn__=*NK-R)
