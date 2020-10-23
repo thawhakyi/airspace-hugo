@@ -1,5 +1,5 @@
 baseURL = "http://7football.netlify.app"
-bg_image = ""
+bg_image = "/images/1208491009.jpg"
 description = "Check out our profitable tips today. Stay home, safe bet."
 disableLanguages = []
 disqusShortname = "thawhakyi"
