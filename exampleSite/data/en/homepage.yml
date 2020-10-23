@@ -42,6 +42,9 @@ service:
   - icon: ''
     name: ''
     content: ''
+  - icon: ''
+    name: ''
+    content: ''
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
