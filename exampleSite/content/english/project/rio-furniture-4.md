@@ -1,6 +1,6 @@
 ---
 title: စ‌ေနညအတွက် အ‌ြကိုက်ဆုံးတစ်ပွဲ
-description: ''
+description: Dialy Free Tip
 image: "/images/banner.jpg"
 bg_image: "/images/call-to-action-bg.jpg"
 category: UI/UX Design
