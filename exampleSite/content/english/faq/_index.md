@@ -10,7 +10,7 @@ bg_image: images/featue-bg.jpg
 
 Our match coverage is unrivalled, so you’re not only covered for predictions today but every weekend and weekday too. To give you a brief outline, we cover ALL matches in the following markets:
 
-* Big European leagues ([Premier League](https://www.premierleague.com/), [La Liga](https://www.laliga.com/), [Serie A], [Bundesliga](https://www.bundesliga.com/en/bundesliga), [Ligue 1](https://www.ligue1.com/), etc.)
+* Famous European leagues ([Premier League](https://www.premierleague.com/), [La Liga](https://www.laliga.com/), [Serie A] (http://www.legaseriea.it/en), [Bundesliga](https://www.bundesliga.com/en/bundesliga), [Ligue 1](https://www.ligue1.com/), etc.)
 * English leagues ([Championship], [League One], [League Two])
 * [FA Cup] and [Carabao Cup] from the 3rd round onwards
 * [Champions League]
