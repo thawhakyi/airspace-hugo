@@ -3,9 +3,9 @@ author = ""
 bg_image = "/images/1208491009.jpg"
 categories = []
 date = ""
-description = ""
+description = "Football Highlights videos from around the world"
 image = ""
-tags = []
+tags = ["football results", "livescore", "soccer highlights", "football highlights"]
 title = "Highlights"
 type = "post"
 
