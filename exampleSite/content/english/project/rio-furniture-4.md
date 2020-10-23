@@ -1,9 +1,9 @@
 ---
 title: စ‌ေနညအတွက် အ‌ြကိုက်ဆုံးတစ်ပွဲ
-description: Dialy Free Tip
+description: ''
 image: "/images/banner.jpg"
 bg_image: "/images/call-to-action-bg.jpg"
-category: UI/UX Design
+category: Free Tips
 information:
 - label: Date
   info: 10/17/2020
@@ -12,10 +12,10 @@ information:
 - label: League
   info: German Bundesliga
 - label: Odds
-  info: '1.5'
+  info: "1.5"
 
 ---
-## စ‌ေနညအတွက် အ‌ြကိုက်ဆုံးတစ်ပွဲ
+# စ‌ေနညအတွက် အ‌ြကိုက်ဆုံးတစ်ပွဲ
 
 \*** ဟာသာဘာလင်ဂိုးပေါ်**
 
